@@ -1,4 +1,7 @@
-# CodeAlpha-Internship-April-2023
+# Front-End Web Development Projects
 
+1.E-Commerce Web Application
+2.Course Provider Platform
+3.Online Code Editor
 
-Internship in CodeAlpha Internship. This is a Git journal for the April Batch CodeAlpha Web Development intern at #CodeAlpha. Author: UMME KULSUM.
+Author: UMME KULSUM.
